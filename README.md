@@ -22,3 +22,6 @@ Email Send
 Animations
 
 Material Design
+
+## To make your Flutter app CV
+Just create your firestore database(According to the model class) and change the required files and feilds. That's all ;P
