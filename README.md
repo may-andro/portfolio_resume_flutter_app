@@ -4,13 +4,21 @@ A Flutter application with offline first approach and design with consideration 
 
 ## Concept Used
 BLOC Pattern
-RxDart
-Custom Clippers
-Pager in Flutter
-Database modeling
-Network Image
-Pdf View
-Email Send
-Animations
-Material Design
 
+RxDart
+
+Custom Clippers
+
+Pager in Flutter
+
+Database modeling
+
+Network Image
+
+Pdf View
+
+Email Send
+
+Animations
+
+Material Design
