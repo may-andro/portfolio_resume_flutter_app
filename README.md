@@ -1,6 +1,6 @@
-# my_CV
+# Clean Architecture in Flutter
 
-A Flutter application with offline first approach and design with consideration of clean architechure using BLOC pattern and RxDart.
+A Flutter application with offline first approach and design with consideration of clean architecture using BLOC pattern and RxDart.
 
 ## Concept Used
 BLOC Pattern
