@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358179257862",
+    "firebase_url": "https://myresume-32d30.firebaseio.com",
+    "project_id": "myresume-32d30",
+    "storage_bucket": "myresume-32d30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358179257862:android:acbedac5b727ac74bc4d87",
+        "android_client_info": {
+          "package_name": "com.mayandro.mayandro_resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358179257862-pa94e7f9i6g6p5tgmvvhfaobpgddgu66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mayandro.mayandro_resume",
+            "certificate_hash": "82f836a84ad7a59699e1a2560dbbf1ac25acc875"
+          }
+        },
+        {
+          "client_id": "358179257862-b2q4bdqr15o7scgf80gco255qmqnt39q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHFrSu4clMw0t0QOqEff0GAAzqlFXDyRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358179257862-b2q4bdqr15o7scgf80gco255qmqnt39q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
