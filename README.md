@@ -2,7 +2,8 @@
 
 A Flutter application with offline first approach and design with consideration of clean architecture using BLOC pattern and RxDart.
 
-## AVAILABLE ON PLAYSTORE : https://play.google.com/store/apps/details?id=com.mayandro.mayandro_resume
+## AVAILABLE ON PLAYSTORE : 
+https://play.google.com/store/apps/details?id=com.mayandro.mayandro_resume
 
 ## Concept Used
 BLOC Pattern
